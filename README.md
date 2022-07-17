@@ -4,11 +4,9 @@
 The "Hello World" app allows users to see customer text in a label, change font and background color, and change the text string of the label.
 
 ### App Walk-through
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 GIF URL: https://imgur.com/a/Zml1dnG
 
-![](HelloWorldApp.gif)
+![](HelloWorld.gif)
 
 
 <img src="https://imgur.com/a/Zml1dnG.gif" width=200><br>
