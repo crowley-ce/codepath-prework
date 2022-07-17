@@ -11,7 +11,7 @@ GIF URL: https://imgur.com/a/Zml1dnG
 ![Alt Text](https://imgur.com/a/Zml1dnG.gif)
 
 
-<img src="https://imgur.com/a/Zml1dnG" width=200><br>
+<img src="https://imgur.com/a/Zml1dnG.gif" width=200><br>
 
 
 ### Required User Stories
