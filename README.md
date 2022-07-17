@@ -8,7 +8,7 @@ The "Hello World" app allows users to see customer text in a label, change font 
 
 GIF URL: https://imgur.com/a/Zml1dnG
 
-![](https://i.imgur.com/Zml1dnG.gif)
+![](https://i.imgur.com/a/Zml1dnG.gif)
 
 
 <img src="https://imgur.com/a/Zml1dnG.gif" width=200><br>
